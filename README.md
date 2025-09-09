@@ -1,10 +1,22 @@
 # 🖥️ Linux Shell Script 예제 - 동적 디렉토리 생성 및 확장
 
 ## 👥 팀원 소개
-| 이름   | GitHub |
-|--------|--------|
-| 신기범 | [@shin-kibeom](https://github.com/shin-kibeom) |
-| 최소영 | [@ottffss1005](https://github.com/ottffss1005) |
+<table>
+  <tr>
+    <th>최소영</th>
+    <th>신기범</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ottffss1005.png" width="120" /><br/>
+      <a href="https://github.com/ottffss1005">@ottffss1005</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/shin-kibeom.png" width="120" /><br/>
+      <a href="https://github.com/shin-kibeom">@shin-kibeom</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
